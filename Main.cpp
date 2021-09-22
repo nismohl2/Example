@@ -1,3 +1,4 @@
+// LINK here: https://yandex.contest...
 #incude <iostream>
 
 int main() {
